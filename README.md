@@ -2,11 +2,11 @@
 
 EngineX is a retro 2D space-lander game built in Unity. Pilot a small lander through rocky space caverns, conserve fuel, collect coins and fuel pickups, then touch down gently on multiplier landing pads for the best score.
 
-![EngineX gameplay screenshot](EngineX/Assets/Screenshots/game.png)
+![EngineX gameplay screenshot](Assets/Screenshots/game.png)
 
 ## Gameplay
 
-Watch the gameplay video: [gameplay.mp4](EngineX/Assets/Screenshots/gameplay.mp4)
+Watch the gameplay video: [gameplay.mp4](Assets/Screenshots/gameplay.mp4)
 
 The goal is simple: fly carefully, spend fuel wisely, and land cleanly. The lander uses physics-based thrust, so every movement affects your momentum and rotation. A successful landing depends on both speed and angle, with higher multiplier pads awarding larger landing scores.
 
